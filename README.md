@@ -1,2 +1,6 @@
-# title-animation
-JS library for a wave-like title animation.
+## JS Title Animation
+
+```html
+<script src="https://title-animation.surge.sh/script.js"></script>
+```
+!["Hello World!" being animated up and down like a wave](https://title-animation.surge.sh/helloworld.gif)
