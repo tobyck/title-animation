@@ -1,7 +1,7 @@
 ## JS Title Animation
 
 ```html
-<script src="https://tobyck.surge.sh/modules/title-animation/script.js"></script>
+<script src="https://modules.tobyck.surge.sh/title-animation/script.js"></script>
 ```
 ### Functions
 * `element.setText(text, fadeInTime, delay)` - Set the text of an element to the text provided in a way that makes in animatable with the following functions.
